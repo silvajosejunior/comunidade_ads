@@ -43,7 +43,5 @@ Este é um aplicativo web desenvolvido em Flask que permite aos usuários fazer 
 - Certifique-se de ajustar as configurações do aplicativo, como a configuração de armazenamento de imagens, em seu ambiente de produção.
 - Este script não lida com persistência de dados em um banco de dados real.
 
-## Licença
 
-- Este aplicativo está licenciado sob a [Sua Licença] - consulte o arquivo `LICENSE` para obter detalhes.
 
